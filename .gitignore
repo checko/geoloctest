@@ -39,3 +39,14 @@ app.*.symbols
 
 # Obfuscation related
 app.*.map.json
+
+
+android/.settings/
+android/app/.classpath
+android/app/.settings/
+android/app/src/main/java/
+ios/Podfile
+ios/Runner/AppDelegate.h
+ios/Runner/AppDelegate.m
+ios/Runner/main.m
+

@@ -1,6 +1,6 @@
-# geoloctest
+# geolocator_example
 
-A new Flutter project.
+Demonstrates how to use the geolocator plugin.
 
 ## Getting Started
 
